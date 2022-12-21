@@ -30,7 +30,7 @@ opencv 4.5
 
 データのタイプは通常の画像ファイルですとuint8（符号なし8ビット整数型）になります。
 
-<img src="Lenna_gray.png" alt="Lenna_gray" style="zoom:50%;" />
+<img src="Lenna_gray.png" alt="Lenna_gray" style="zoom:33%;" />
 
 ```python
 # モジュールをインポートして、題材としてLennaさんを読み込みます。
